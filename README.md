@@ -215,7 +215,7 @@
   <section id="contact">
     <h2>Contact & Booking / お問い合わせ & 予約</h2>
     <p>
-      <strong>Phone:</strong> 03-6426-7707 / 080-4136-6529
+      <strong>Phone:</strong> 03-6426-7707
     </p>
     <p>
       <strong>Email:</strong> <a href="mailto:gagancurrytogoshi@gmail.com">gagancurrytogoshi@gmail.com</a>

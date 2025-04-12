@@ -158,7 +158,8 @@
   <section id="menu" class="menu-section">
     <h2>Menu & Photos / メニュー＆写真</h2>
     <p>
-      View our menu photos via UberEats, or click the links below to see additional images.<br>
+  
+      .<br>
       UberEatsでメニューの写真をご覧いただくか、下記のリンクをクリックしてその他の写真をご確認ください。
     </p>
     <ul>

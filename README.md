@@ -1,14 +1,11 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Gagan Curry Shop - ガガンのカレー屋さん</title>
-  <!-- Google Font: Roboto -->
   <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,700&display=swap" rel="stylesheet">
   <style>
-    /* General Styles */
     body {
       margin: 0;
       font-family: 'Roboto', sans-serif;
@@ -16,7 +13,6 @@
       color: #333;
       line-height: 1.6;
     }
-    /* Header: fixed top, translucent background */
     header {
       background: rgba(0, 0, 0, 0.7);
       color: #fff;
@@ -48,22 +44,20 @@
       text-decoration: none;
       font-weight: 700;
     }
-    /* Hero Section */
     .hero {
-      background: url('images/hero_background.jpg') no-repeat center center/cover;
+      background: url('images/background_banner.jpg') no-repeat center center/cover;
       height: 80vh;
       display: flex;
       align-items: center;
       justify-content: center;
       text-align: center;
       color: #fff;
-      margin-top: 60px; /* Offset fixed header */
+      margin-top: 60px;
     }
     .hero h1 {
       font-size: 3em;
       margin: 0;
     }
-    /* Content Sections */
     section {
       padding: 60px 20px;
       max-width: 1000px;
@@ -77,7 +71,6 @@
       margin-bottom: 20px;
       text-align: center;
     }
-    /* Menu Section */
     .menu-section ul {
       list-style: none;
       padding: 0;
@@ -100,7 +93,6 @@
       border-radius: 5px;
       box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     }
-    /* Footer */
     footer {
       background: #333;
       color: #fff;
@@ -115,7 +107,6 @@
     footer a:hover {
       text-decoration: underline;
     }
-    /* Clearfix */
     .clearfix::after {
       content: "";
       clear: both;
@@ -128,7 +119,6 @@
   <!-- Header Section -->
   <header class="clearfix">
     <div class="logo">
-      <!-- Replace with your actual logo image path -->
       <img src="images/logo.jpg" alt="Gagan Curry Shop Logo - ガガンのカレー屋さん ロゴ">
     </div>
     <nav>
@@ -175,14 +165,12 @@
         <a href="https://maps.app.goo.gl/XR6vJR7fki7Uu6QK7" target="_blank">Restaurant Photo 2 / レストラン写真 2</a>
       </li>
     </ul>
-    <!-- Course Menu Image -->
     <h3>Party & Course Menu / コースメニュー</h3>
     <p>
       Check out our special party courses!<br>
       特別なパーティコースをご覧ください！
     </p>
     <div style="max-width: 500px; margin: 0 auto;">
-      <!-- Update with correct path for your course menu image -->
       <img src="images/course_menu.jpg" alt="Party Menu - Gagan Curry Shop / パーティメニュー - ガガンのカレー屋さん">
     </div>
     <h3>Our Offerings / ご提供内容</h3>
@@ -215,12 +203,8 @@
   <!-- Contact Section -->
   <section id="contact">
     <h2>Contact & Booking / お問い合わせ & 予約</h2>
-    <p>
-      <strong>Phone:</strong> 03-6426-7707 / 080-4136-6529
-    </p>
-    <p>
-      <strong>Email:</strong> <a href="mailto:gagancurrytogoshi@gmail.com">gagancurrytogoshi@gmail.com</a>
-    </p>
+    <p><strong>Phone:</strong> 03-6426-7707 / 080-4136-6529</p>
+    <p><strong>Email:</strong> <a href="mailto:gagancurrytogoshi@gmail.com">gagancurrytogoshi@gmail.com</a></p>
     <p>
       <strong>Online Booking:</strong><br>
       <a href="https://tabelog.com/tokyo/A1317/A131712/13291891/" target="_blank">Tabelog</a><br>
@@ -242,10 +226,10 @@
     </p>
   </section>
 
-  <!-- Footer Section -->
+  <!-- Footer -->
   <footer>
     <p>
-      <a href="https://m.me/113552028518979" target="_blank">Facebook</a> | 
+      <a href="https://m.me/113552028518979" target="_blank">Facebook</a> |
       <a href="https://www.instagram.com/gagancurrytogoshi/" target="_blank">Instagram</a>
     </p>
     <p>&copy; 2025 Gagan Curry Shop / ガガンのカレー屋さん. All rights reserved.</p>

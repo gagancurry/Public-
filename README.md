@@ -47,16 +47,17 @@
     }
 
     /* Hero Section */
-    .hero {
-      background: url('images/gagan_curry_background_final.jpg') no-repeat center center/cover;
-      height: 80vh;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      text-align: center;
-      color: #fff;
-      margin-top: 60px;
-    }
+    .
+     .hero {
+  background: url('images/gagan_cover.png') no-repeat center center/cover;
+  height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: #fff;
+  margin-top: 60px;
+}
     .hero h1 {
       font-size: 3em;
       margin: 0;

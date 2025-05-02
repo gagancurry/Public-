@@ -48,8 +48,8 @@
 
     /* Hero Section */
     .
-     .hero {
-  background: url('images/gagan_cover.png') no-repeat center center/cover;
+.hero {
+  background: url('#c62828;) no-repeat center center/cover;
   height: 80vh;
   display: flex;
   align-items: center;
